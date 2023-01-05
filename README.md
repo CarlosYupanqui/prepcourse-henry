@@ -1,2 +1,2 @@
-# prepcourse-henry
-modulo 2 prep course henry
+Carlos Yupanqui
+proyecto para crear y realizar un commit en la web 
